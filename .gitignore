@@ -2,4 +2,4 @@
 builds/
 .terraform*
 *.tfstate
-*.tfstate*
+*.tfstate.*
